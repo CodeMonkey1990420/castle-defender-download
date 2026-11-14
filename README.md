@@ -27,4 +27,7 @@ Alle brauchen dieselbe Version. Mehr steht in der `LIESMICH.txt` in der Zip-Date
 
 ## Stand
 
-Version 0.1: Welt, Abbauen, Bauen, Herstellen, Tag und Nacht, Speichern und Koop. Die Orcs kommen mit der nächsten Version.
+Version 0.2: Welt mit Gebirgen und Höhlen, Abbauen, Bauen, Herstellen, Schwert und Werkzeuge schwingen, Tag und Nacht,
+Mittelalter-Musik, Speichern und Koop. Die Orcs kommen mit einer der nächsten Versionen.
+
+Musik: RandomMind (OpenGameArt, CC0).
